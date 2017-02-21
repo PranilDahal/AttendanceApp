@@ -1,6 +1,6 @@
 
 
-Attendance Web Application:
+ATTENDANCE WEB APPLICATION:
 
 Allows to Take attendance for specific courses and activities, stores them in MySQL, and provides RESTful endpoints for data.
 
